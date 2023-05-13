@@ -198,6 +198,9 @@ body{
     background: #211A16;
     border: 1px solid #353535;
     border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .products-item-image{
